@@ -4,7 +4,7 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://yoursite.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 May 2025 06:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 20:34:04 GMT</lastBuildDate>
         <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Corpus Analysis Tool]]></title>
@@ -12,6 +12,16 @@
             <link>/posts/corpus_analysis</link>
             <guid isPermaLink="true">/posts/corpus_analysis</guid>
             <category><![CDATA[corpus analysis]]></category>
+            <dc:creator><![CDATA[DN]]></dc:creator>
+            <pubDate>Thu, 01 May 2025 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peer Review Helper]]></title>
+            <description><![CDATA[Pentest peer review tool.]]></description>
+            <link>/posts/peer_review_helper</link>
+            <guid isPermaLink="true">/posts/peer_review_helper</guid>
+            <category><![CDATA[penstesting]]></category>
+            <category><![CDATA[copy-editing]]></category>
             <dc:creator><![CDATA[DN]]></dc:creator>
             <pubDate>Thu, 01 May 2025 04:00:00 GMT</pubDate>
         </item>
