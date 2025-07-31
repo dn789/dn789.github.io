@@ -4,8 +4,17 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://yoursite.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 31 Jul 2025 19:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Jul 2025 19:47:34 GMT</lastBuildDate>
         <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Corpus Analysis Tool]]></title>
+            <description><![CDATA[Desktop app for corpus analysis.]]></description>
+            <link>/posts/corpus_analysis</link>
+            <guid isPermaLink="true">/posts/corpus_analysis</guid>
+            <category><![CDATA[corpus analysis]]></category>
+            <dc:creator><![CDATA[DN]]></dc:creator>
+            <pubDate>Thu, 01 May 2025 04:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[L2 English corpus from Reddit]]></title>
             <description><![CDATA[A corpus of L2 English automatically generated from Reddit comments]]></description>
@@ -26,15 +35,6 @@
             <category><![CDATA[copy-editing]]></category>
             <dc:creator><![CDATA[DN]]></dc:creator>
             <pubDate>Tue, 10 Jun 2025 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Corpus Analysis Tool]]></title>
-            <description><![CDATA[Desktop app for corpus analysis.]]></description>
-            <link>/posts/corpus_analysis</link>
-            <guid isPermaLink="true">/posts/corpus_analysis</guid>
-            <category><![CDATA[corpus analysis]]></category>
-            <dc:creator><![CDATA[DN]]></dc:creator>
-            <pubDate>Thu, 01 May 2025 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
