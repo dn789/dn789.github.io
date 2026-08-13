@@ -4,7 +4,7 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://yoursite.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 31 Jul 2025 19:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 01:44:51 GMT</lastBuildDate>
         <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Corpus Analysis Tool]]></title>
@@ -14,6 +14,17 @@
             <category><![CDATA[corpus analysis]]></category>
             <dc:creator><![CDATA[DN]]></dc:creator>
             <pubDate>Thu, 01 May 2025 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Entropy and linguistic development]]></title>
+            <description><![CDATA[.]]></description>
+            <link>/posts/entropy_linguistic_dev</link>
+            <guid isPermaLink="true">/posts/entropy_linguistic_dev</guid>
+            <category><![CDATA[entropy]]></category>
+            <category><![CDATA[sentence processing]]></category>
+            <category><![CDATA[language acquisition]]></category>
+            <dc:creator><![CDATA[DN]]></dc:creator>
+            <pubDate>Sun, 10 Aug 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[L2 English corpus from Reddit]]></title>
@@ -27,6 +38,17 @@
             <pubDate>Fri, 18 Apr 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Word Discovery in CHILDES with the PARSER algorithm]]></title>
+            <description><![CDATA[.]]></description>
+            <link>/posts/parser_childes</link>
+            <guid isPermaLink="true">/posts/parser_childes</guid>
+            <category><![CDATA[speech segmentation]]></category>
+            <category><![CDATA[sentence processing]]></category>
+            <category><![CDATA[language acquisition]]></category>
+            <dc:creator><![CDATA[DN]]></dc:creator>
+            <pubDate>Fri, 01 Aug 2025 04:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Peer Review Helper]]></title>
             <description><![CDATA[Pentest peer review tool.]]></description>
             <link>/posts/peer_review_helper</link>
@@ -35,6 +57,17 @@
             <category><![CDATA[copy-editing]]></category>
             <dc:creator><![CDATA[DN]]></dc:creator>
             <pubDate>Tue, 10 Jun 2025 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Text-to-SQL]]></title>
+            <description><![CDATA[A pipeline for generating SQL queries from natural language questions]]></description>
+            <link>/posts/text2sql</link>
+            <guid isPermaLink="true">/posts/text2sql</guid>
+            <category><![CDATA[text2sql]]></category>
+            <category><![CDATA[llm]]></category>
+            <category><![CDATA[rag]]></category>
+            <dc:creator><![CDATA[DN]]></dc:creator>
+            <pubDate>Fri, 18 Apr 2025 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
